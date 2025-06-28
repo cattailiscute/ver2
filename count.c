@@ -359,5 +359,5 @@ static void __exit gpio_driver_exit(void) {
 module_init(gpio_driver_init);
 module_exit(gpio_driver_exit);
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Jiwon Shin, Modified by Hyunji");
+MODULE_AUTHOR("Jiwon Shin");
 MODULE_DESCRIPTION("GPIO driver for people counter with sysfs and IRQ support");
