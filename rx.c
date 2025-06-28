@@ -1,4 +1,4 @@
-// rx.c - 깔끔한 출력 버전
+// rx.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <fcntl.h>
